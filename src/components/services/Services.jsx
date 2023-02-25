@@ -48,23 +48,23 @@ const Services = () => {
           <ul className="service__list">
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Project 1</p>
+              <p>Personal Portfolio</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Project 2</p>
+              <p>Bookstore CMS</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Project 3</p>
+              <p>TV Hub</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Project 4</p>
+              <p>Metrics Webapp</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Project 5</p>
+              <p>Math Magicians</p>
             </li>
           </ul>
         </article>
