@@ -39,7 +39,7 @@ const About = () => {
           </div>
 
           <p>I can help you build a product, feature or website. Look through some of my work and experience!. If you like whay you need coded, don't hesitate to cintact me.</p>
-          <a href="contact" className='btn btn-primary'>Let's talk</a>
+          <a href="#contact" className='btn btn-primary'>Let's talk</a>
         </div>
       </div>
     </section>
