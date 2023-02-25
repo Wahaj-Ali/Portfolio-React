@@ -10,6 +10,7 @@
     border-radius: 2rem;
     border: 1px solid transparent;
     transition: var(--transition);
+    height: 350px;
 }
 
 .portfolio__item:hover {
@@ -20,6 +21,10 @@
 .portfolio__item-image {
     border-radius: 1.5rem;
     overflow: hidden;
+}
+
+.portfolio__item-image > img {
+    height: 125px;
 }
 
 .portfolio__item h3 {

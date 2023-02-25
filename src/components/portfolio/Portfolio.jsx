@@ -38,7 +38,7 @@ const data = [{
 {
   id: 5,
   image: IMG5,
-  title: 'INTERNATIONAL PAK ORTHOCON 2022',
+  title: 'HTML Website',
   github: 'https://github.com/Wahaj-Ali/Capstone-1',
   demo: 'https://wahaj-ali.github.io/Capstone-1/',
 },
