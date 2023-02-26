@@ -72,29 +72,29 @@ const Services = () => {
         {/* new service  */}
         <article className="service">
           <div className="service__head">
-            <h3>Content Creation</h3>
+            <h3>Skills</h3>
           </div>
 
           <ul className="service__list">
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Project 1</p>
+              <p>Codekit</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Project 2</p>
+              <p>Github</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Project 3</p>
+              <p>Codepen</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Project 4</p>
+              <p>Gitlab</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Project 5</p>
+              <p>Terminal</p>
             </li>
           </ul>
         </article>

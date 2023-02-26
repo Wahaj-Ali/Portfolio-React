@@ -1,6 +1,6 @@
 import React from 'react';
 import './about.css';
-import ME from '../../assets/me-about.jpg';
+import ME from '../../assets/me-about.png';
 import {FaAward} from'react-icons/fa';
 import {FiUsers} from 'react-icons/fi';
 import {VscFolderLibrary} from 'react-icons/vsc'
@@ -38,7 +38,7 @@ const About = () => {
             </article>
           </div>
 
-          <p>I can help you build a product, feature or website. Look through some of my work and experience!. If you like whay you need coded, don't hesitate to cintact me.</p>
+          <p>I can help you build a product, feature or website. Look through some of my work and experience! If you like what you see and have a project you need coded, don't hesitate to contact me.</p>
           <a href="#contact" className='btn btn-primary'>Let's talk</a>
         </div>
       </div>

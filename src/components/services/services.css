@@ -37,7 +37,7 @@
 
 .service__list li {
     display: flex;
-    gap: 4rem;
+    gap: 2rem;
     margin-bottom: 0.8rem;
 }
 
@@ -67,5 +67,13 @@
     .services__container {
         grid-template-columns: 1fr;
         gap: 1.5rem;
+    }
+
+    .service__list {
+        padding: 4rem;
+    }
+
+    .service__list li {
+        gap: 3rem;
     }
 }
